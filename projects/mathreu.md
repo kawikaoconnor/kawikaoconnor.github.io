@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: 
 title: "On the Number of Conjugacy Classes of Almost p-regular Elements in Finite Groups"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "The poster that was the result of an REU in group theory."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 
 During the summer of 2022, I participated in an REU focused on group theory. The following poster was the result of a summer of research into a particular problem in group theory.
 
@@ -28,4 +28,4 @@ An element g of a group G is termed "almost p-regular" if the order of g is eith
 
 Ultimately, the following poster is the culmination of the summer, laying out the groundwork for a potential proof of the statement. It should be noted, that work is still ongoing though, and some of the details are now out-dated.
 
-The poster can be found [here])(https://github.com/kawikaoconnor/kawikaoconnor.github.io/blob/main/projects/On_conjugacy_classes_of_varying_p_regularity_level__Poster_.pdf).
+The poster can be found [here](https://github.com/kawikaoconnor/kawikaoconnor.github.io/blob/main/projects/On_conjugacy_classes_of_varying_p_regularity_level__Poster_.pdf).
