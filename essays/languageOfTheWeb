@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-# The Language of the Web
+*The Language of the Web*
 
 Javascript as a language has the reputation of being the so-called, "language of the web."  This, is certainly true. Javascript has many features that make it suitted for this role. It interacts well with HTML and CSS, and the emphasis on "functions as first class" allows for a developer to add in script tags to perform a specific task here or there throughout a webpage, without having to define a 'main.c' file, or an entire class file in Java.
 
